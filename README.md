@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Sthefane Silva!
+# 👋 Prazer, eu sou Sthefane Silva!
 
-Bem-vindo ao meu perfil no GitHub! Aqui está um pouco sobre mim:
+Vou te contar um pouco sobre a Sthefane Dev.
 
 ## 🌟 Sobre Mim
 
