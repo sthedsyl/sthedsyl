@@ -7,8 +7,10 @@ Vou te contar um pouco sobre a Sthefane Dev.
 - 💻 **Desenvolvedora**: Apaixonada por criar soluções de software escaláveis e eficientes.
 - 🚀 **Explorador**: Sempre curiosa e disposta a aprender novas tecnologias.
 - 🌍 **Colaborador**: Amo trabalhar em projetos de código aberto e contribuir com a comunidade de desenvolvedores.
+- 
 
 ## 🔧 Tecnologias & Ferramentas
+
 
 - **Linguagens**:
   
