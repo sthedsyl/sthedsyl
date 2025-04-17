@@ -16,6 +16,7 @@ Vou te contar um pouco sobre a Sthefane Dev.
   
   [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py)](https://skillicons.dev)
   
+  
 - **Frameworks**:
     
   [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind)](https://skillicons.dev)
@@ -25,9 +26,11 @@ Vou te contar um pouco sobre a Sthefane Dev.
   [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,figma)](https://skillicons.dev)
 
 
+
 ## 📈 Estatísticas
 
 ![Suas estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=sthedsyl&show_icons=true&theme=radical)
+
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=sthedsyl&layout=compact&theme=radical)
 
