@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui está um pouco sobre mim:
 ## 🔧 Tecnologias & Ferramentas
 
 - **Linguagens**: [Java Script, Python]
-- **Frameworks**: [React, Next.js, Tailwind]
+- **Frameworks**: [React, Next.js, Vite, Tailwind]
 - **Ferramentas**: [VS Code, Git]
 
 ## 📈 Estatísticas
