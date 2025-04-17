@@ -10,9 +10,18 @@ Vou te contar um pouco sobre a Sthefane Dev.
 
 ## 🔧 Tecnologias & Ferramentas
 
-- **Linguagens**: [Java Script, Python]
-- **Frameworks**: [React, Next.js, Vite, Tailwind]
-- **Ferramentas**: [VS Code, Git]
+- **Linguagens**:
+  
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py)](https://skillicons.dev)
+  
+- **Frameworks**:
+    
+  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind)](https://skillicons.dev)
+  
+- **Ferramentas**:
+
+  [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,figma)](https://skillicons.dev)
+
 
 ## 📈 Estatísticas
 
