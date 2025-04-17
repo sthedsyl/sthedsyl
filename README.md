@@ -10,9 +10,9 @@ Bem-vindo ao meu perfil no GitHub! Aqui está um pouco sobre mim:
 
 ## 🔧 Tecnologias & Ferramentas
 
-- **Linguagens**: [Java Script, Python...]
-- **Frameworks**: [React, Nesxt, Tailwind...]
-- **Ferramentas**: [VS Code, Git...]
+- **Linguagens**: [Java Script, Python]
+- **Frameworks**: [React, Next.js, Tailwind]
+- **Ferramentas**: [VS Code, Git]
 
 ## 📈 Estatísticas
 
@@ -22,7 +22,6 @@ Bem-vindo ao meu perfil no GitHub! Aqui está um pouco sobre mim:
 
 ## 📫 Como Me Encontrar
 
-- GitHub: [sthedsyl](https://github.com/sthedsyl)
 - Linkedin: [https://www.linkedin.com/in/sthefane-silva/]
 
 ## 🎯 Objetivos
