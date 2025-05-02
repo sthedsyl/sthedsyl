@@ -1,6 +1,6 @@
 # 👋 Prazer, eu sou Sthefane Silva!
 
-Vou te contar um pouco sobre a Sthefane Dev.
+### Estagiária Desenvolvedora na [**SEAP**](https://seap.ma.gov.br/)
 
 ## 🌟 Sobre Mim
 
