@@ -43,7 +43,7 @@
 
 ## 🎯 Objetivos
 
-- Aprender e dominar [Área Front-End e seus frameworks]
+- Aprender e dominar a área de Front-End 
 - Criar soluções inovadoras para problemas do mundo real.
 
 ---
