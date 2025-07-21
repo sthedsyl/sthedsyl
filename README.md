@@ -29,8 +29,8 @@
 
 ## 📈 Estatísticas
 
-<div align="center" gap="6">
-  <img src="https://github-readme-stats.vercel.app/api?username=sthedsyl&show_icons=true&theme=radical" alt="Suas estatísticas no GitHub" height="180"  />
+<div align="center" style="display: flex; gap: 4px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sthedsyl&show_icons=true&theme=radical" alt="Suas estatísticas no GitHub" height="180" />
   <img src="https://streak-stats.demolab.com?user=sthedsyl&theme=radical" alt="GitHub Streak" height="180" />
 </div>
 
