@@ -31,11 +31,11 @@
 
 ![Suas estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=sthedsyl&show_icons=true&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=sthedsyl&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sthedsyl&theme=radical)](https://git.io/streak-stats)
+## Principais Linguagens
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=sthedsyl&layout=compact&theme=radical)
-
 
 ## 📫 Como Me Encontrar
 
