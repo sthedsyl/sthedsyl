@@ -5,7 +5,7 @@
 ## Sobre Mim
 
 - 🖥️ **Desenvolvedora**: Apaixonada por criar soluções de software escaláveis e eficientes.
-- 🎓 **Formação**: Graduanda do 4° período em Análise e Desenvolvimento de Sistemas.
+- 🎓 **Formação**: Graduanda do 5° período em Análise e Desenvolvimento de Sistemas.
 - 🚀 Explorando tecnologias, sempre curiosa e disposta a aprender mais.
 - ❤️ Amo trabalhar em projetos que irão contribuir para o meu desenvolvimento profissional e para a sociedade!
 
