@@ -1,14 +1,15 @@
-# Olá, eu sou Sthefane! 💙
 
-### Estagiária Desenvolvedora na [**SEAP**](https://seap.ma.gov.br/)
+## Desenvolvedora Front-End | React • Next.js • Angular
+## Estagiária na SEAP • Buscando vaga júnior
 
 ## Sobre Mim
 
-- 🖥️ **Desenvolvedora**: Apaixonada por criar soluções de software escaláveis e eficientes.
-- 🎓 **Formação**: Graduanda do 5° período em Análise e Desenvolvimento de Sistemas.
-- 🚀 Explorando tecnologias, sempre curiosa e disposta a aprender mais.
-- ❤️ Amo trabalhar em projetos que irão contribuir para o meu desenvolvimento profissional e para a sociedade!
-
+- 💻 Desenvolvedora Front-End com 1 ano de experiência prática como estagiária na SEAP
+- 🎓 Graduanda em Análise e Desenvolvimento de Sistemas — UNDB (conclusão jul/2026)
+- 🛠️ Atualmente trabalhando com React, Next.js, Angular e PostgreSQL
+- 🚀 Buscando minha primeira vaga como Desenvolvedora Front-End Júnior
+- 📍 São Luís, Maranhão — aberta a remoto
+- 
 ## 🔧 Tecnologias & Ferramentas
 
 
