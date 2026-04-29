@@ -1,4 +1,3 @@
-
 ## Desenvolvedora Front-End | React • Next.js • Angular
 ## Estagiária na SEAP • Buscando vaga júnior
 
@@ -9,24 +8,28 @@
 - 🛠️ Atualmente trabalhando com React, Next.js, Angular e PostgreSQL
 - 🚀 Buscando minha primeira vaga como Desenvolvedora Front-End Júnior
 - 📍 São Luís, Maranhão — aberta a remoto
-- 
+
+## 🏆 Projetos em Destaque
+
+### 📚 Sistema de Gestão Escolar — Viriato Correia
+Aplicação web para apoiar a gestão pedagógica de escolas estaduais do Maranhão, trazendo mais organização e agilidade para o acompanhamento escolar.
+
+**Tecnologias:** React.js • Tailwind CSS • PostgreSQL
+
+[🔗 Acessar Repositório](https://github.com/sthedsyl/sistema-gestao-escolar)
+
+---
+
 ## 🔧 Tecnologias & Ferramentas
 
-
 - **Linguagens**:
-  
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py)](https://skillicons.dev)
-  
-  
+   [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py)](https://skillicons.dev)
+
 - **Frameworks**:
-    
-  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind)](https://skillicons.dev)
-  
+   [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind)](https://skillicons.dev)
+
 - **Ferramentas**:
-
-  [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,figma)](https://skillicons.dev)
-
-
+   [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,figma)](https://skillicons.dev)
 
 ## 📈 Estatísticas
 <div display= "flex" flex-direction="row">
@@ -40,11 +43,11 @@
 
 ## 📫 Como Me Encontrar
 
-- Linkedin: [https://www.linkedin.com/in/sthefane-silva/]
+- LinkedIn: [https://www.linkedin.com/in/sthefane-silva/](https://www.linkedin.com/in/sthefane-silva/)
 
 ## 🎯 Objetivos
 
-- Aprender e dominar a área de Front-End 
+- Aprender e dominar a área de Front-End
 - Criar soluções inovadoras para problemas do mundo real.
 
 ---
